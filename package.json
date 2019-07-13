@@ -1,0 +1,50 @@
+{
+	"name": "ra-monokai",
+	"displayName": "Ra Monokai",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-monokai.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-monokai"
+	},
+	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#333639",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark",
+		"dark theme",
+		"vscode dark theme",
+		"ra",
+		"ra monokai theme",
+		"ra monokai",
+		"ramonokai",
+		"ra-monokai",
+		"ra monokai theme"
+	]
+}
